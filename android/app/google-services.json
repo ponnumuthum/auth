@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98300697892",
+    "project_id": "authscreen-b5a7e",
+    "storage_bucket": "authscreen-b5a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98300697892:android:e1999d381dcceb85e567b1",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98300697892-24de2j1fhjidr62i7740s98e902083pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdb3qKtsPDBFefFrG2G-9M7UW7QpR0ZKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98300697892-24de2j1fhjidr62i7740s98e902083pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
